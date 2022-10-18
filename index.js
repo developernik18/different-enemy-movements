@@ -47,7 +47,7 @@ window.addEventListener("load", function () {
       // this.enemies.sort((a, b) => {
       //   return a.y - b.y;
       // });
-      console.log(this.enemies);
+      // console.log(this.enemies);
     }
   }
 
